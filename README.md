@@ -1,0 +1,1 @@
+Chat App with Socket.io, React, and Node.This repository contains a real-time chat application built using Socket.io, React, and Node. The app allows users to communicate with each other in real-time, supporting features like instant messaging, online user presence, and chat room functionality.
